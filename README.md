@@ -26,8 +26,6 @@ Eu sou Kauan Costa silva tenho 15 anos,moro em São Paulo/SP e sou apaixonado po
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title = "CSS3"/></code>
  
 </br>
-</br>
-
 - 🔭 I’m currently working on mild
 - 🌱 I’m currently learning rust
 - 👯 I'm looking to collaborate on projects written in rust
@@ -35,7 +33,7 @@ Eu sou Kauan Costa silva tenho 15 anos,moro em São Paulo/SP e sou apaixonado po
 - 📫 How to reach me: 
 - Telegram: @kauangninja
 
-
+##
 
 <div align="center">
   <a href="https://github.com/KAUANGNINJA">

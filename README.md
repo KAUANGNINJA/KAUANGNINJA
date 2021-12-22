@@ -24,16 +24,7 @@
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title = "CSS3"/></code>
  
  
- ##
 
-<div align="center">
-  <a href="https://github.com/KAUANGNINJA">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KAUANGNINJA&show_icons=true&theme=dark&include_all_commits=true&count_private=true&layout=compact"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KAUANGNINJA&layout=compact&langs_count=7&theme=dark&layout=compact"/>
-
-  ![Snake animation](https://github.com/KAUANGNINJA/KAUANGNINJA/blob/output/github-contribution-grid-snake.svg)
-
-</div>
 
 - 🔭 I’m currently working on mild
 - 🌱 I’m currently learning rust

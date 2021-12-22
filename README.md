@@ -2,15 +2,15 @@
 <div> 
   <a href = "mailto:kauangninja@protonmail.com"><img src="https://img.shields.io/badge/-ProtonMail-%23333?style=for-the-badge&logo=protonmail&logoColor=white" target="_blank"></a>
   <a href="https://www.t.me/kauangninja" target="_blank"><img src="https://img.shields.io/badge/-Telegram-%230077B5?style=for-the-badge&logo=telegram" target="_blank"></a> 
-<a href="https://instagram.com/seu-usuário-instagram-aqui" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://instagram.com/ss_kauancosta" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+
+
 </div>
-
-
 
 
 ## Eai,Beleza✌️
 Eu sou Kauan Costa silva tenho 15 anos,moro em São Paulo/SP e sou apaixonado por programação e games! Estou me divertindo nesse ramo da programação e cada dia me divirto mais ainda com as coisas de aprendo e passando raiva com os bugs 😂
-#
+
 <div align="center">
   <a href="https://github.com/KAUANGNINJA">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KAUANGNINJA&show_icons=true&theme=dark&include_all_commits=true&count_private=true&layout=compact"/>

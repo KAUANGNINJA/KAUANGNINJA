@@ -12,11 +12,12 @@
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title = "HTML5"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title = "CSS3"/></code>
  
-  ##
  
+ ## Contatos
 <div> 
   <a href = "mailto:kauangninja@protonmail.com"><img src="https://img.shields.io/badge/-ProtonMail-%23333?style=for-the-badge&logo=protonmail&logoColor=white" target="_blank"></a>
   <a href="https://www.t.me/kauangninja" target="_blank"><img src="https://img.shields.io/badge/-Telegram-%230077B5?style=for-the-badge&logo=telegram" target="_blank"></a> 
+<a href="https://instagram.com/seu-usuário-instagram-aqui" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   
   ![Snake animation](https://github.com/KAUANGNINJA/KAUANGNINJA/blob/output/github-contribution-grid-snake.svg)
   

@@ -19,6 +19,13 @@ Eu sou Kauan Costa silva tenho 15 anos,moro em São Paulo/SP e sou apaixonado po
   <img src="https://c.tenor.com/gpXma8Yd4UEAAAAd/kl7-typing.gif" width="350">
 </p>
 
+
+  ### 🖥Ferramentas e Tecnologias
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title = "PYTHON"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" title = "RUST"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title = "HTML5"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title = "CSS3"/></code>
+ 
 <div align="center">
   <a href="https://github.com/KAUANGNINJA">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KAUANGNINJA&show_icons=true&theme=dark&include_all_commits=true&count_private=true&layout=compact"/>
@@ -26,15 +33,7 @@ Eu sou Kauan Costa silva tenho 15 anos,moro em São Paulo/SP e sou apaixonado po
 
   ![Snake animation](https://github.com/KAUANGNINJA/KAUANGNINJA/blob/output/github-contribution-grid-snake.svg)
 
-</div>
-  
-  ### 🖥Ferramentas e Tecnologias
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title = "PYTHON"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" title = "RUST"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title = "HTML5"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title = "CSS3"/></code>
- 
- 
+</div> 
 
 
 - 🔭 I’m currently working on mild

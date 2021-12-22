@@ -18,6 +18,12 @@ Eu sou Kauan Costa silva tenho 15 anos,moro em São Paulo/SP e sou apaixonado po
 <p align="center">
   <img src="https://c.tenor.com/gpXma8Yd4UEAAAAd/kl7-typing.gif" width="350">
 </p>
+- 🔭 I’m currently working on mild
+- 🌱 I’m currently learning rust
+- 👯 I'm looking to collaborate on projects written in rust
+- 🤔 I'm looking for help with a project for a linux distro focused on being practical and fast developed in rust
+- 📫 How to reach me: 
+- Telegram: @kauangninja
 
 
   ### 🖥Ferramentas e Tecnologias
@@ -36,10 +42,4 @@ Eu sou Kauan Costa silva tenho 15 anos,moro em São Paulo/SP e sou apaixonado po
 </div> 
 
 
-- 🔭 I’m currently working on mild
-- 🌱 I’m currently learning rust
-- 👯 I'm looking to collaborate on projects written in rust
-- 🤔 I'm looking for help with a project for a linux distro focused on being practical and fast developed in rust
-- 📫 How to reach me: 
-- Telegram: @kauangninja
 

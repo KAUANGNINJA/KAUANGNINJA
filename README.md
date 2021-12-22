@@ -30,8 +30,8 @@ Eu sou Kauan Costa silva tenho 15 anos,moro em São Paulo/SP e sou apaixonado po
 <div display="inline-block">
  <p align="left">🔭 I’m currently working on mild</p>
  <p align="left">📚 I’m currently learning rust</p>
- <p align="left">I'm looking to collaborate on projects written in rust</p>
- <p align="left">I'm looking for help with a project for a linux distro focused on being practical and fast developed in rust</p>
+ <p align="left">👯 I'm looking to collaborate on projects written in rust</p>
+ <p align="left">🤔 I'm looking for help with a project for a linux distro focused on being practical and fast developed in rust</p>
 </div>
 
 

@@ -6,7 +6,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KAUANGNINJA&layout=compact&langs_count=7&theme=dark&layout=compact"/>
 </div>
   
-  ### Ferramentas e Tecnologias
+  ### 🖥Ferramentas e Tecnologias
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width="40" height="40" />
   

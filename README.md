@@ -25,17 +25,16 @@ Eu sou Kauan Costa silva tenho 15 anos,moro em São Paulo/SP e sou apaixonado po
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title = "HTML5"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title = "CSS3"/></code>
  
+</br>
+</br>
 
-</br>
-</br>
-<div display="inline-block">
 - 🔭 I’m currently working on mild
 - 🌱 I’m currently learning rust
 - 👯 I'm looking to collaborate on projects written in rust
 - 🤔 I'm looking for help with a project for a linux distro focused on being practical and fast developed in rust
 - 📫 How to reach me: 
 - Telegram: @kauangninja
-<div>
+
 
 
 <div align="center">

@@ -14,6 +14,8 @@
   
   ##
  
+  Ferrramentas Utilizadas
+  
 <div> 
   <a href = "mailto:kauangninja@protonmail.com"><img src="https://img.shields.io/badge/-ProtonMail-%23333?style=for-the-badge&logo=protonmail&logoColor=white" target="_blank"></a>
   <a href="https://www.t.me/kauangninja" target="_blank"><img src="https://img.shields.io/badge/-Telegram-%230077B5?style=for-the-badge&logo=telegram" target="_blank"></a> 

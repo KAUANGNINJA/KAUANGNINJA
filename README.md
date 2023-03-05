@@ -11,9 +11,6 @@
 </br>
 </br>
 
-## Eai,Beleza✌️
-
-Eu sou Kauan Costa silva tenho 15 anos,moro em São Paulo/SP e sou apaixonado por programação e games! Estou me divertindo nesse ramo da programação e cada dia me divirto mais ainda com as coisas de aprendo e passando raiva com os bugs 😂
 
 <p align="center">
   <img src="https://c.tenor.com/gpXma8Yd4UEAAAAd/kl7-typing.gif" width="350">
